@@ -1,0 +1,14 @@
+{
+  "name": "MagicTableLib",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "hikaruna",
+  "license": "",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
